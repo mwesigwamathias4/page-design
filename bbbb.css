@@ -1,0 +1,23 @@
+.mainheading{
+    color:rgb(226, 19, 116);
+    font-size: 40px ;
+}
+body{
+	background:url('man.jpg') no-repeat;
+	background-size:cover;
+	font-family:Areal;
+	color:white;
+}
+.heading2{
+    color:blue;
+    font-size: 40px
+}
+.heading3{
+    color:rgb(255, 72, 0);
+    font-size: 20px
+}
+#logo{
+    width: 100px;
+    height:50px;
+    border-radius:50px;
+}
